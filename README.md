@@ -46,7 +46,7 @@ Lets say, you went through the questions in the previous section and decided to 
 The choice depends on how important or frequent the scenario is. Use (a) if and only if users understand and use this artifact outside of Recruiterbox (in the real world) and it is very frequently used (example: Openings, Candidates, Interviews etc). Use (b) when an artifact may is less frequent. Use (c) to handle edge cases
 
 2) Make a lean product
-Find the least number of artifacts necessary to handle most scenarios
+	- Find the least number of artifacts necessary to handle most scenarios
 
 3) Specialize workflows for frequent scenarios
 	- Certain scenarios are rich and frequent enough that it helps users if you handle them as specialized workflows. For example, rejecting a candidate requires recording a reject reason, sending a rejection letter, and removing the candidate from the pipleine together. This is best handled as a single workflow rather than a colelction of independent steps. Other examples are application screening workflow where reject/forward are the only decisions a user makes
