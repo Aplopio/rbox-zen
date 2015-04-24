@@ -11,7 +11,7 @@ A good product team has a bank user scenarios it tries to solve (rather than a l
 
 ## Should we handle a given User scenario?
 
-1. Does this scenario happen really occur (often enough) ?
+1. Does this scenario really occur (often enough) ?
 	- Rarely will you find scenarios that users haven't already talked / asked about
 	- You should find this scenario in your existing product usage, or support questions
 	- For instance, to answer if people do salary negotations as a step, you will find interviews intv. feedback related to this inside rbox
