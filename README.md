@@ -40,9 +40,9 @@ A good product team has a bank user scenarios it tries to solve (rather than a l
 Lets say, you went through the questions in the previous section and decided to handle a scenario. This section will help you answer how to handle it
 
 1) Given a scenario, pick one of the following ways to handle it
-	(a) Create a specialized artifact (example: Application screening, reject state, hired state)
-	(b) Extension of an existing artifact (ex: Mark a candidate conversation as private)
-	(c) Expect the user to hack/workaround existing artifacts to handle it (ex: )
+	- (a) Create a specialized artifact (example: Application screening, reject state, hired state)
+	- (b) Extension of an existing artifact (ex: Mark a candidate conversation as private)
+	- (c) Expect the user to hack/workaround existing artifacts to handle it (ex: )
 The choice depends on how important or frequent the scenario is. Use (a) if and only if users understand and use this artifact outside of Recruiterbox (in the real world) and it is very frequently used (example: Openings, Candidates, Interviews etc). Use (b) when an artifact may is less frequent. Use (c) to handle edge cases
 
 2) Make a lean product
