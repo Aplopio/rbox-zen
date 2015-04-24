@@ -7,7 +7,7 @@ At Recruiterbox, we first and foremost think of what is the user trying to achie
 
 Often, users themselves are guilty of recommending features rather than the problem they wish to solve. It is our job to strip off the suggested solution and focus merely on the problem.
 
-A good product team has a bank user scenarios it tries to solve (rather than a list of features). All customer feedback and internal ideas add to this bank. Now we pick each scenario and ask the following questions:
+A good product team has a bank user scenarios it tries to solve (rather than a list of features). All customer feedback and internal ideas add to this bank. For each such scenario ask the following questions:
 
 ## Should we handle a given User scenario?
 
